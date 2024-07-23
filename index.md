@@ -15,7 +15,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="images/fig1.gif" alt="New Visualization" style="width: 100%;">
+        <img src="images/fig_1.gif" alt="New Visualization" style="width: 100%;">
     </figure>
 </div>
 
