@@ -16,6 +16,14 @@ In cross-modal retrieval, comprehensive image understanding is vital while the s
 <figure>
 </div>
 
+### Semantic Ambiguity Issue
+<div style="display: flex; justify-content: space-between;">
+
+<figure>
+  <img src="images/new_visualization.png" alt="Introduction Image" style="width: 100%;">
+<figure>
+</div>
+
 
 ## Attention Maps
 <div style="display: flex; justify-content: space-between;">
