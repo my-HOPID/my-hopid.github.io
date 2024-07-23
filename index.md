@@ -17,7 +17,7 @@ In cross-modal retrieval, comprehensive image understanding is vital while the s
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="images/new_visualization.png" alt="New Visualization" style="width: 100%;">
+        <img src="images/fig1.gif" alt="New Visualization" style="width: 100%;">
     </figure>
 </div>
 
