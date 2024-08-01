@@ -3,7 +3,7 @@
 ![alt text](hopid.png)
 
 
-## Task Introduction
+## [1/5] Task Introduction
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -20,7 +20,7 @@
     </figure>
 </div>
 
-### Semantic Ambiguity Issue
+### [2/5] Semantic Ambiguity Issue
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -37,7 +37,7 @@
     </figure>
 </div>
 
-## Attention Maps
+## [3/5] Attention Maps
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -45,7 +45,7 @@
     </figure>
 </div>
 
-## T-SNE Visualization
+## [4/5] T-SNE Visualization
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -53,16 +53,16 @@
     </figure>
 </div>
 
-## TEXT→IMG Retrieval (1/2) 📄🔍🎆
+## [5/5] TEXT→IMG Retrieval (1/2) 📄🔍🎆
 ![TEXT→IMG Retrieval (1/2)](images/i2t_1.png)
 
-## TEXT→IMG Retrieval (2/2) 📄🔍🎆
+## [5/5] TEXT→IMG Retrieval (2/2) 📄🔍🎆
 ![TEXT→IMG Retrieval (2/2)](images/i2t_2.png)
 
-## IMG→TEXT Retrieval (1/2) 🎆🔍📄
+## [5/5] IMG→TEXT Retrieval (1/2) 🎆🔍📄
 ![IMG→TEXT Retrieval (1/2)](images/t2i_1.png)
 
-## IMG→TEXT Retrieval (2/2) 🎆🔍📄
+## [5/5] IMG→TEXT Retrieval (2/2) 🎆🔍📄
 ![IMG→TEXT Retrieval (2/2)](images/t2i_2.png)
 
 
