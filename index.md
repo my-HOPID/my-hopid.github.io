@@ -20,7 +20,7 @@
     </figure>
 </div> -->
 
-### [2/5] Semantic Ambiguity Issue & Retrieval Process
+### [2/5] Retrieval Process
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
