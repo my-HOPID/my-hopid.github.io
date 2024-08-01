@@ -5,11 +5,11 @@
 
 ## Task Introduction
 
-<!-- <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <figure>
         <img src="images/intro.png" alt="Introduction Image" style="width: 100%;">
     </figure>
-</div> -->
+</div>
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -22,11 +22,11 @@
 
 ### Semantic Ambiguity Issue
 
-<!-- <div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <figure>
         <img src="images/fig_1.gif" alt="New Visualization" style="width: 100%;">
     </figure>
-</div> -->
+</div>
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
