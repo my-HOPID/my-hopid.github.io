@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="images/fig_2.gif" alt="Introduction Image" style="width: 100%;">
+        <img src="images/fig_3.gif" alt="Introduction Image" style="width: 100%;">
     </figure>
 </div>
 
@@ -41,7 +41,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="images/keshihua.png" alt="t-SNE Image" style="width: 100%;">
+        <img src="images/attention_map.png" alt="t-SNE Image" style="width: 100%;">
     </figure>
 </div>
 
