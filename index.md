@@ -7,20 +7,20 @@
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
-        <img src="images/intro.png" alt="Introduction Image" style="width: 100%;">
+        <img src="images/fig_2.gif" alt="Introduction Image" style="width: 100%;">
     </figure>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <figure>
         <video controls style="width: 100%;">
             <source src="video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </figure>
-</div>
+</div> -->
 
-### [2/5] Semantic Ambiguity Issue
+### [2/5] Semantic Ambiguity Issue & Retrieval Process
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -28,14 +28,14 @@
     </figure>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <figure>
         <video controls style="width: 100%;">
             <source src="video2.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </figure>
-</div>
+</div> -->
 
 ## [3/5] Attention Maps
 
