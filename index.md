@@ -1,6 +1,6 @@
 # HOPID: Heterogeneous Prompt-Guided Entity Inferring and Distilling for Scene-Text Aware Cross-modal Retrieval
 
-![alt text](hopid.png)
+![alt text](hopid_1.png)
 
 
 ## [1/5] Task Introduction
@@ -20,7 +20,7 @@
     </figure>
 </div> -->
 
-### [2/5] Retrieval Process
+## [2/5] Retrieval Process
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
