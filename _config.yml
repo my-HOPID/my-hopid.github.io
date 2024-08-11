@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: HOPID
-description: The official examples of article "HOPID:Heterogeneous Prompt-Guided Entity Inferring and Distilling for Scene-Text Aware Cross-modal Retrieval"
+description: The official examples of article "Heterogeneous Prompt-Guided Entity Inferring and Distilling for Scene-Text Aware Cross-modal Retrieval"
 github:
   is_project_page: false
 
