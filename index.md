@@ -3,7 +3,7 @@
 ![alt text](hopid_1.png)
 
 
-## [1/5] Task Introduction
+## [1/6] Task Introduction
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -20,7 +20,7 @@
     </figure>
 </div> -->
 
-## [2/5] Retrieval Process
+## [2/6] Retrieval Process
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -37,7 +37,7 @@
     </figure>
 </div> -->
 
-## [3/5] Attention Maps
+## [3/6] Attention Maps
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -45,7 +45,7 @@
     </figure>
 </div>
 
-## [4/5] T-SNE Visualization
+## [4/6] T-SNE Visualization
 
 <div style="display: flex; justify-content: space-between;">
     <figure>
@@ -53,20 +53,20 @@
     </figure>
 </div>
 
-## [5/5] TEXT→IMG Retrieval (1/2) 📄🔍🎆
+## [5/6] TEXT→IMG Retrieval (1/2) 📄🔍🎆
 ![TEXT→IMG Retrieval (1/2)](images/i2t_1.png)
 
-## [5/5] TEXT→IMG Retrieval (2/2) 📄🔍🎆
+## [5/6] TEXT→IMG Retrieval (2/2) 📄🔍🎆
 ![TEXT→IMG Retrieval (2/2)](images/i2t_2.png)
 
-## [5/5] IMG→TEXT Retrieval (1/2) 🎆🔍📄
+## [6/6] IMG→TEXT Retrieval (1/2) 🎆🔍📄
 ![IMG→TEXT Retrieval (1/2)](images/t2i_1.png)
 
-## [5/5] IMG→TEXT Retrieval (2/2) 🎆🔍📄
+## [6/6] IMG→TEXT Retrieval (2/2) 🎆🔍📄
 ![IMG→TEXT Retrieval (2/2)](images/t2i_2.png)
 
 
 ## Abstract
-In cross-modal retrieval, comprehensive image understanding is vital while the scene text in images can provide fine-grained information to understand visual semantics. Current methods fail to make full use of scene text. They suffer from the semantic ambiguity of independent scene text and overlook the heterogeneous concepts in data. To address this issue, we propose a novel heterogeneous prompt-guided entity inferring and distilling (HOPID) network to leverage the nature connection of scene text in images and captions and learn a property-centric scene text representation. Specifically, we propose to align scene text in images and captions via heterogeneous prompt, which consists of visual and text prompt. For text prompt, we introduce the discriminative entity inferring module to reason discriminative scene text words from text, while visual prompt provide corresponding scene text in images by highlighting them. Furthermore, to secure a robust scene text representation, we design a perceptive entity distilling module that distills the beneficial information of scene text at a fine-grained level. Extensive experiments show that the proposed method significantly outperforms existing approaches on two public cross-modal retrieval benchmarks. 
+In cross-modal retrieval, comprehensive image understanding is vital while the scene text in images can provide fine-grained information to understand visual semantics. Current methods fail to make full use of scene text. They suffer from the semantic ambiguity of independent scene text and overlook the heterogeneous concepts in image-caption pairs. In this paper, we propose a heterogeneous prompt-guided entity inferring and distilling (HOPID) network to explore the nature connection of scene text in images and captions and learn a property-centric scene text representation. Specifically, we propose to align scene text in images and captions via heterogeneous prompt, which consists of visual and text prompt. For text prompt, we introduce the discriminative entity inferring module to reason key scene text words from captions, while visual prompt highlights the corresponding scene text in images. Furthermore, to secure a robust scene text representation, we design a perceptive entity distilling module that distills the beneficial information of scene text at a fine-grained level. Extensive experiments show that the proposed method significantly outperforms existing approaches on two public cross-modal retrieval benchmarks. 
 
 
