@@ -1,6 +1,6 @@
 # Heterogeneous Prompt-Guided Entity Inferring and Distilling for Scene-Text Aware Cross-modal Retrieval
 
-![alt text](hopid_1.png)
+![alt text](hopid.png)
 
 
 ## [1/6] Task Introduction
